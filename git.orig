@@ -3,8 +3,7 @@ second commit
 <<<<<<< HEAD
 third commit
 five commit
-||||||| 0251796
+||||||| parent of 99a3256 (fourth commit)
 =======
 fourth commit
-seven commit
->>>>>>> dev
+>>>>>>> 99a3256 (fourth commit)
